@@ -1,0 +1,6 @@
+.is-invisible {
+    visibility: hidden;
+}
+.is-visible {
+    visibility: visible;
+}
