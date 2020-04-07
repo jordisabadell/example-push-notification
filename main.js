@@ -1,4 +1,4 @@
-const applicationServerPublicKey = 'BEcXEohj2nt7M6dZYC_6ryVI63HeVFl8BJ31ZHu6lZGhneuY8vEkB29NaRU9DFSAhdrCBsLrTyK561CaQWtqICQ';
+const applicationServerPublicKey = '<Your Public key>';
 
 let isSubscribed = false;
 let swRegistration = null; //service worker registration
