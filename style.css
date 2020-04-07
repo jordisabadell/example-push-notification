@@ -4,3 +4,8 @@
 .is-visible {
     visibility: visible;
 }
+pre {
+    word-wrap: break-word;
+    white-space: pre-wrap;
+    word-break: normal;
+}
