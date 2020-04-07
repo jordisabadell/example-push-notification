@@ -3,7 +3,7 @@
 ## How to configure/install
 1. Access to [Push Companion](https://web-push-codelab.glitch.me) web. It will create an **Application Server Keys**.
 1. Copy **Public key** value to the **applicationServerPublicKey** variable on **main.js** project file.
-1. Start your web using a local server like **Web Server for Chrome** or **Firebase server**.
+1. Launch your web using a local server like **Web Server for Chrome** or **Firebase server**.
 1. Click on **Enable Push Messaging** button.
 1. Copy **Application server key** value to Push Companion web, on **Subscription to Send To** field.
 1. Write any **Text to send** and click on **Send push message**. You'll recive a push notification. 
