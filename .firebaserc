@@ -1,0 +1,6 @@
+{
+  "projects": {
+    "default": "example-push-notification-2020",
+    "staging": "example-push-notification-2020"
+  }
+}
